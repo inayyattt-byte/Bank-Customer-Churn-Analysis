@@ -60,15 +60,27 @@ The project includes:
 
 ## Project Structure
 
+## Project Structure
+
+```text
 bank-customer-churn-analysis/
 │
 ├── data/
+│   └── data.csv
+│
 ├── images/
+│   ├── average_balance_by_country.png
+│   ├── churn_by_country.png
+│   ├── activity_churn.png
+│   ├── gender_churn.png
+│   └── age_group_churn.png
+│
 ├── notebooks/
+│   └── analysis.py
+│
 ├── README.md
-├── questions.txt
-
----
+└── questions.txt
+```
 
 ## Author
 Inayat Kaur
