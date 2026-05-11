@@ -1,0 +1,23 @@
+1. Which country has highest churn?
+Answer:
+Germany had the highest customer churn rate at approximately 22%.
+
+2. Do inactive members leave more?
+Answer:
+Active members showed a slightly higher churn rate compared to inactive members in this dataset.
+
+3. Which age group exits most?
+Answer:
+Customers aged 60+ showed the highest churn rate, followed closely by customers aged 46–60.
+
+4. Do higher balances affect churn?
+Answer:
+Customers in Germany had the highest average account balance, and Germany also showed the highest churn rate, suggesting a possible relationship between higher balances and churn.
+
+5. Which gender leaves more?
+Answer:
+Female customers demonstrated a slightly higher churn rate compared to male customers.
+
+6. Does credit score affect churn?
+Answer:
+Further analysis is required to determine the relationship between credit score and customer churn.
